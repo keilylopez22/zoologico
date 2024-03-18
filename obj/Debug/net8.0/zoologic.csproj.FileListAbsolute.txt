@@ -1,0 +1,4 @@
+C:\Users\keily\OneDrive\Escritorio\zoologico\zoologic\obj\Debug\net8.0\zoologic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\zoologico\zoologic\obj\Debug\net8.0\zoologic.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\zoologico\zoologic\obj\Debug\net8.0\zoologic.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\zoologico\zoologic\obj\Debug\net8.0\zoologic.csproj.CoreCompileInputs.cache
